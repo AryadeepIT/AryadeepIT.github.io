@@ -327,7 +327,8 @@ header .copyright {
   vertical-align: middle;
   font-size: 24px;
   font-weight: 700;
-  font-family: 'Sacramento', cursive;
+font-family: 'Sacramento', cursive;
+
 }
 .mobile-header .site-title.dot:after {
   content: "";
