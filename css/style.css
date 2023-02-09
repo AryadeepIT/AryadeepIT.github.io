@@ -286,7 +286,7 @@ header .vertical-menu li a:hover {
 }
 header .vertical-menu li a.active:before {
   content: "";
-  background: #FF5959;
+  /* background: #FF5959; */
   display: block;
   height: 18px;
   left: -30px;
@@ -408,7 +408,7 @@ main.content.push {
 }
 .hero .cta h1 .dot:after {
   content: "";
-  background-color: #ff9100;
+  background-color: #00ff00;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
@@ -627,7 +627,7 @@ section.padding-60 {
   transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
 }
 .portfolio-item .plus-icon {
-  color: #FF5959;
+  color: #000000;
   background: #FFF;
   border-radius: 100%;
   position: absolute;
@@ -645,7 +645,7 @@ section.padding-60 {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-item .mask {
-  background: #FF5959;
+  background : linear-gradient( 64.5deg,  rgba(245,116,185,1) 14.7%, rgba(89,97,223,1) 88.7% );
   position: absolute;
   left: 0;
   top: 0;
@@ -662,7 +662,7 @@ section.padding-60 {
   box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.15);
 }
 .portfolio-item:hover .mask {
-  opacity: 0.9;
+  opacity: 0.7;
 }
 .portfolio-item:hover img {
   -webkit-transform: scale(1);
@@ -715,7 +715,7 @@ section.padding-60 {
   height: 7px;
 }
 .portfolio-filter li.current {
-  background: #FF5959;
+  background : linear-gradient( 83.2deg,  rgba(150,93,233,1) 10.8%, rgba(99,88,238,1) 94.3% );
   color: #FFF;
   padding: 6px 14px 4px;
   border-radius: 30px;
@@ -889,7 +889,7 @@ section.padding-60 {
 }
 .blog-item .category {
   border-radius: 50px;
-  background: #FF5959;
+  background : linear-gradient( 65.9deg,  rgba(85,228,224,1) 5.5%, rgba(75,68,224,0.74) 54.2%, rgba(64,198,238,1) 55.2%, rgba(177,36,224,1) 98.4% );
   color: #FFF;
   font-size: 12px;
   padding: 1px 8px;
@@ -921,7 +921,7 @@ section.padding-60 {
 
 .contact-info i {
   font-size: 24px;
-  color: #FF5959;
+  color: #039a30;
   float: left;
 }
 .contact-info .details {
@@ -1023,7 +1023,7 @@ section.padding-60 {
 
 .btn-default {
   color: #FFF;
-  background: linear-gradient(to right, #ff416c, #ff4b2b);
+  background: linear-gradient(to right, #136a8a, #267871);
 }
 .btn-default:hover {
   background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
@@ -1040,7 +1040,7 @@ section.padding-60 {
 
 .btn-alt {
   color: #FFF;
-  background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+  background: linear-gradient(to right, #ff416c, #ff4b2b);
 }
 .btn-alt:hover {
   color: #FFF;
@@ -1362,7 +1362,7 @@ section.padding-60 {
   width: 30px;
 }
 .social-icons li a:hover {
-  color: #FF5959;
+  color: #6200ff;
   background: #FFF;
 }
 
