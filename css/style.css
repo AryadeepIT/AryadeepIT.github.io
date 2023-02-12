@@ -303,7 +303,8 @@ header .copyright {
 }
 
 .mobile-header {
-  background : linear-gradient( 110.3deg,  rgba(72,85,99,1) 8.8%, rgba(127,146,166,1) 95.1% );
+  background: linear-gradient(to right, rgb(63, 76, 107), #414656);
+
   border-radius: 20px;
   display: none;
   -webkit-transform: translateX(0);
@@ -511,7 +512,7 @@ section.padding-60 {
   left: calc(20% + 2px);
   bottom: 0px;
   width: 1px;
-  background: #135802;
+  background: #000000;
 }
 .timeline-line::before, .timeline-line::after {
   content: "";
@@ -555,7 +556,7 @@ section.padding-60 {
   position: absolute;
   width: 8px;
   height: 8px;
-  border: 1px solid #0a5702;
+  border: 1px solid #47006e;
   background-color: #fff;
   border-radius: 100%;
   padding: 4.5px;
@@ -940,7 +941,7 @@ section.padding-60 {
 /*=================================================================*/
 .overlay {
   border-radius: 20px;
-  background: linear-gradient(to right, #283048, #859398);
+  background: linear-gradient(to right, rgb(63, 76, 107), #414656);
   left: 0;
   top: 0;
   opacity: 0.8;
