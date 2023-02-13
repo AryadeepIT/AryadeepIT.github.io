@@ -142,12 +142,12 @@ pre {
 
 ::selection {
   color: #FFF;
-  background: #FF5959;
+  background: #02ab0a;
 }
 
 ::-moz-selection {
   color: #FFF;
-  background: #FF5959;
+  background: #02ab0a;
 }
 
 .z-1 {
