@@ -348,7 +348,7 @@ font-family: 'Josefin Sans', sans-serif;
   cursor: pointer;
   background: transparent;
   border: 0;
-  outline: none;
+  outline: none; 
   vertical-align: middle;
   padding: 0;
 }

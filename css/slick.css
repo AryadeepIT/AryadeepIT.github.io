@@ -90,7 +90,7 @@
 }
 .slick-slide.slick-loading img
 {
-    display: none;
+    display: none; 
 }
 .slick-slide.dragging img
 {
