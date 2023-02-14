@@ -222,19 +222,19 @@ header.left button.close {
   display: none;
   outline: none;
   padding: 0;
-  background-color: #FFF;
+  background-color: rgb(205, 82, 42);
   border: 0;
   -webkit-appearance: none;
   opacity: 1;
-  color: #FF5959;
+  color: white;
   font-weight: 400;
   font-size: 16px;
   border-radius: 50%;
   width: 20px;
   height: 20px;
-  line-height: 22px;
+  line-height: 16px;
   margin-top: 16px;
-  margin-right: 18px;
+  margin-right: 16px;
   position: relative;
   z-index: 1;
 }
@@ -262,6 +262,7 @@ header .site-title.dot:after {
 header .site-slogan {
   font-size: 12px;
   text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
 }
 header .vertical-menu {
   font-size: 14px;
@@ -352,7 +353,7 @@ font-family: 'Josefin Sans', sans-serif;
   padding: 0;
 }
 .mobile-header button.menu-icon span {
-  background: #FFF;
+  background: #acaeaf;
   border-radius: 10px;
   display: block;
   height: 4px;
@@ -556,7 +557,7 @@ section.padding-60 {
   position: absolute;
   width: 8px;
   height: 8px;
-  border: 1px solid #47006e;
+  border: 1px solid #03440d;
   background-color: #fff;
   border-radius: 100%;
   padding: 4.5px;
