@@ -650,7 +650,7 @@ section.padding-60 {
   transition: all 0.3s ease-in-out;
 }
 .portfolio-item .mask {
-  background : linear-gradient( 64.5deg,  rgba(245,116,185,1) 14.7%, rgba(89,97,223,1) 88.7% );
+  background: linear-gradient(to right, #141e30, #243b55);
   position: absolute;
   left: 0;
   top: 0;
@@ -667,7 +667,7 @@ section.padding-60 {
   box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.15);
 }
 .portfolio-item:hover .mask {
-  opacity: 0.7;
+  opacity: 0.92;
 }
 .portfolio-item:hover img {
   -webkit-transform: scale(1);
