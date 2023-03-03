@@ -1043,13 +1043,86 @@ section.padding-60 {
   box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
 }
 
-.btn-alt {
+.btn-da {
   color: #FFF;
-  background: linear-gradient(to right, #ff416c, #ff4b2b);
+  background: linear-gradient(to right, #f12711, #e1200a);
+  border-color: #ff416c;
+}
+.btn-da:hover {
+  background: linear-gradient(to right, #f12711, #e1200a);
+  color: #FFF;
+  -webkit-transform: translateY(-3px);
+  -moz-transform: translateY(-3px);
+  -ms-transform: translateY(-3px);
+  -o-transform: translateY(-3px);
+  transform: translateY(-3px);
+  -webkit-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn-ds {
+  color: #FFF;
+  background: linear-gradient(to right, #606c88, #3f4c6b);
+}
+.btn-ds:hover {
+  background: linear-gradient(to right, #606c88, #3f4c6b);
+  color: #FFF;
+  -webkit-transform: translateY(-3px);
+  -moz-transform: translateY(-3px);
+  -ms-transform: translateY(-3px);
+  -o-transform: translateY(-3px);
+  transform: translateY(-3px);
+  -webkit-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn-python {
+  color: #FFF;
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
+}
+.btn-python:hover {
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
+  color: #FFF;
+  -webkit-transform: translateY(-3px);
+  -moz-transform: translateY(-3px);
+  -ms-transform: translateY(-3px);
+  -o-transform: translateY(-3px);
+  transform: translateY(-3px);
+  -webkit-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn-web {
+  color: #000;
+  background: linear-gradient(to right, #ece9e6, #ffffff);
+  border-color: #000;
+}
+.btn-web:hover {
+  background: linear-gradient(to right, #ece9e6, #ffffff);
+  color: #000;
+  border-color: #000;
+  -webkit-transform: translateY(-3px);
+  -moz-transform: translateY(-3px);
+  -ms-transform: translateY(-3px);
+  -o-transform: translateY(-3px);
+  transform: translateY(-3px);
+  -webkit-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
+}
+
+.btn-alt {
+  color: #000;
+  background: #fff;
+  border-color: #000;
 }
 .btn-alt:hover {
-  color: #FFF;
-  background: linear-gradient(to right, #ff416c, #ff4b2b);
+  background: #fff;
+  color: #000;
+  border-color: #000;
   -webkit-transform: translateY(-3px);
   -moz-transform: translateY(-3px);
   -ms-transform: translateY(-3px);
