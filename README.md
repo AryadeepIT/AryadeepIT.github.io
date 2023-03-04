@@ -11,6 +11,12 @@ My personal portfolio website is a platform where I can showcase my skills, proj
 
 
 
+### Preview
+
+![demo-1](https://thumbs4.imagebam.com/68/5a/d2/MEJ6XQV_t.png)
+
+![demo-2](https://thumbs4.imagebam.com/46/fe/86/MEJ6XQU_t.png)
+
 
 ### Technologies and Tools
 
@@ -41,15 +47,15 @@ My personal portfolio website is a platform where I can showcase my skills, proj
 
 ### Instructions
 
-If you would like to run the website locally, follow these instructions:
+If you would like to run the website locally, follow these instructions :
 
 1.  Clone the repository by running the following command in your terminal:
 
 ```
-git clone https://github.com/AryadeepIT/AryadeepIT.github.io.git` 
+git clone https://github.com/AryadeepIT/AryadeepIT.github.io.git
 ```
 
-2.  Navigate to the repository's directory:
+2.  Navigate to the repository's directory : 
 
 ```
 cd AryadeepIT.github.io
