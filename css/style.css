@@ -1293,7 +1293,7 @@ section.padding-60 {
 }
 
 .form-control:focus {
-  border-color: #FF5959;
+  border-color: #02ab0a;
   outline: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -1440,7 +1440,7 @@ section.padding-60 {
   width: 30px;
 }
 .social-icons li a:hover {
-  color: #6200ff;
+  color: #03440d;
   background: #FFF;
 }
 
