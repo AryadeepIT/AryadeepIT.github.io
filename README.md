@@ -1,7 +1,7 @@
 
 ### Introduction
 
-Welcome to the GitHub repository of my personal portfolio website! This website was created by me, **Aryadeep Chakraborty**, on **January 1, 2022**. Since then, I have made many changes and updates to it to showcase my skills and achievements.
+Welcome to the GitHub repository of my personal portfolio website! This website was created by me, **Aryadeep Chakraborty**, on **January 1, 2022**. Since then, I have made many changes and updates to it to showcase my skills and achievements. 
 
 
 
