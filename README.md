@@ -40,7 +40,7 @@ My personal portfolio website is a platform where I can showcase my skills, proj
 -   **Responsive Design** - the website is designed to work on all devices, from desktops to mobile phones
 -   **Interactive Animations** - the website uses JavaScript and CSS animations to create an engaging user experience
 -   **Clean and Modern Design** - the website is designed to be simple, easy to navigate, and visually appealing.
-
+ 
 
 
 
