@@ -1665,6 +1665,23 @@ section.padding-60 {
   background: #FF5959;
 }
 
+
+.copyrightthis {
+  padding-top: 200px;
+  font-family: cursive;
+}
+.copyrightthis span:first-child {
+  
+  font-size: 10px;
+  color: #000000;
+  text-align: right;
+}
+.copyrightthis span:last-child {
+  font-size: 10px;
+  color: #801111;
+  text-align: right;
+}
+
 /*=================================================================*/
 /*                      RESPONSIVE SETTINGS
 /*=================================================================*/
