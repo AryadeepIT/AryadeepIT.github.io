@@ -1481,7 +1481,7 @@ section.padding-60 {
 }
 
 #return-to-top:hover {
-  background: #FF5959;
+  background: linear-gradient(to right, #136a8a, #267871);;
 }
 
 .videoWrapper {
